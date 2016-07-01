@@ -1,1 +1,1 @@
-This is testing on new-branch
+This is testing on new-branch conflict with master
